@@ -1,9 +1,9 @@
 // Typing animation
 const roles = [
-  'Developer',
-  'Data Enthusiast',
-  'Problem Solver',
-  'Lifelong Learner'
+  'CS Student',
+  'ML Engineer',
+  'AI Developer',
+  'Full-Stack Developer'
 ];
 
 const typingEl = document.getElementById('typingText');
